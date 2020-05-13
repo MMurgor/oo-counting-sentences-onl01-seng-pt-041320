@@ -2,7 +2,7 @@
 	  
 	  def sentence?
 
-    self.end_with?("Hi, my name is sophie.") ? true : false
+    self.end_with?("Hi, my name is sophie") ? true : false
     end
 
 
