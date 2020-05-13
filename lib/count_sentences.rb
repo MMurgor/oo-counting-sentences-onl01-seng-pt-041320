@@ -1,6 +1,8 @@
-	class Strin  def sentence?
+	class String
+	  
+	  def sentence?
 
-    self.end_with?("Hi, my name is sophie.sentence) ? true : false
+    self.end_with?("Hi, my name is sophie.") ? true : false
     end
 
 
